@@ -19,7 +19,7 @@ A modern, real-time password strength analyzer with security recommendations. Bu
 
 ## Demo
 
-![Password Strength Checker](https://via.placeholder.com/520x600?text=Password+Strength+Checker)
+![Password Strength Checker](/public/Demo.png)
 
 ## Getting Started
 
